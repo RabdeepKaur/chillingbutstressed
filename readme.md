@@ -1,16 +1,5 @@
 # Three.js Journey
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
-
-``` bash
-# Install dependencies (only the first time)
-npm install
-
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
+ Wave was made with Three.js. This project involved some practice with shaders.<br>
+ These waves are just chilling with the blue sky, but you still get an omnipresent feeling, like something is about to happen.
 ```
